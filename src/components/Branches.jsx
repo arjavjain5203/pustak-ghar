@@ -5,7 +5,7 @@ const Branches = {
       "courses": [
         {
           "course": "Btech",
-          "branches": ["CSE", "IT", "ECE", "Mechanical", "Civil"],
+          "branches": ["CSE", "IT", "ECE", "Mechanical", "Civil","EEE","Electrical"],
           "semesters": [
             {
               "semester": "1st",
